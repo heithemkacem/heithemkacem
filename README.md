@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kacemheithem" target="blank"><img src="https://img.shields.io/twitter/follow/kacemheithem?logo=twitter&style=for-the-badge" alt="kacemheithem" /></a> </p>
 
-- 🔭 I’m currently working on [nearvote-v2](https://github.com/heithemkacem/nearvote-v2)
+- 🔭 I’m currently working on [hotelna-v2](https://github.com/heithemkacem/hotelna)
 
 - 🌱 I’m currently learning **Hyper Ledger Fabric**
 
